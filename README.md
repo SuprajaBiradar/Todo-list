@@ -24,7 +24,7 @@ A simple and efficient task management web application built with **React**. Thi
 ---
 
 ## 📂 Folder Structure
-
+```
 react-todo-list/
 ├── public/
 │ └── index.html
@@ -39,7 +39,7 @@ react-todo-list/
 │ ├── App.js
 │ └── App.css
 └── README.md
-
+```
 ---
 
 ## ✨ Getting Started
